@@ -4,7 +4,7 @@ Simple microphone based volume meter with LM3915 and NE5532.
 
 ## Authors
 
-* **Daniel Quach** - *Design* - [Muoshy](https://github.com/Muoshy)
+* **Daniel Quach** - *Inital work* - [Muoshy](https://github.com/Muoshy)
 
 ## License
 
